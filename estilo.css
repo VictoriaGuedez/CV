@@ -1,0 +1,73 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');*/
+body{
+    font-family: 'Ubuntu', sans-serif;
+    width: 100vw;
+    height: 100vh;
+}
+header{
+    background-color: #809fff;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.titulo{
+    display: inline-block;
+    width: 400px;
+    color: #ffff;
+    font-weight: 700;
+    padding: 15px;
+}
+.subtitulo{
+    display: inline-block;
+    width: 400px;
+    color: #ffff;
+    font-weight: 500;
+}
+.presentacion{
+    background-color: #ffb3ff;
+    color: #464547;
+    font-weight: 300;
+    text-align: center;
+    padding: 10px; 
+}
+.educacion{
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+}
+.foto{
+    display: inline-block;
+    margin-top: 20px;
+}
+.foto img{
+    width: 200px;
+}
+.uno{
+    width:600px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.apartes{
+    font-size: 30px;
+}
+dt{
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.apartes-2{
+    font-size: 15px;
+}
+
+.apartes-3{
+    font-size: 14px;
+}
+
+.redessociales li{
+        text-decoration: none;
+}
+
